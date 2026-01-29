@@ -1,18 +1,18 @@
 # استنساخ المستودع
-git clone https://github.com/yourusername/url-masker.git
+            git clone https://github.com/yourusername/url-masker.git
 
 # الانتقال إلى المجلد
-cd url-masker
+         cd URL-Masking-Tool-v1.0
 
 # تثبيت المتطلبات
-pip install requests
+          pip install requests
 
 # Interactive Mode | الوضع التفاعلي
-python url_masker.py
+           python url_masker.py
 
 # CLI Mode | وضع سطر الأوامر
-python url_masker.py --target https://example.com --mask https://yourdomain.com --keywords keyword
+        python url_masker.py --target https://example.com --mask https://yourdomain.com --keywords keyword
 
-# 
 
-        Created by NSR - URL Masking Tool v1.0
+
+# Created by NSR - URL Masking Tool v1.0

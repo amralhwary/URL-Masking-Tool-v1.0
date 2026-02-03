@@ -8,7 +8,7 @@
     pip install requests
 
 # Interactive Mode | الوضع التفاعلي
-    python url_masker.py
+    python URL Masking Tool v1.0.py
 
 # CLI Mode | وضع سطر الأوامر
     python url_masker.py --target https://example.com --mask https://yourdomain.com --keywords keyword
